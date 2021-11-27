@@ -1,8 +1,6 @@
 # Hack_cheatsheet
 Colección de herramientas y comandos para comprometer máquinas
 
-# Hacking Cheat Sheet
-
 # Reconnaissance (Information Gathering)
 
 - [hunter.io](https://hunter.io/) - known email and users for a specific domain
