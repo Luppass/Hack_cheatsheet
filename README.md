@@ -1,6 +1,17 @@
 # Hack_cheatsheet
 Colección de herramientas y comandos para comprometer máquinas
 
+
+# SMB
+
+Ver usuarios que nos puedan permitir logearnos sin credenciales
+```bash
+smbclient -L <ip>
+```
+y después:
+```bash
+smbclient \\\\ip\\user
+```
 # Reconnaissance (Information Gathering)
 
 - [hunter.io](https://hunter.io/) - known email and users for a specific domain
